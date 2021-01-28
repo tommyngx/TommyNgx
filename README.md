@@ -9,7 +9,7 @@
 
 I am a [Data Scientist](https://tommy-ngx.github.io/ai/) and Ms in Software Engineering graduate from the [University of Federation](https://federation.edu.au/). I have a strong interest in AI advancements and machine learning applications (such as finance, economy, hi-tech and bio-tech). Outside my degree course, I am a writer for [Towards Data Science](https://towardsdatascience.com/) and Freelancer.
 
-![](https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png)
+![width="50px"](https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png)
 
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
