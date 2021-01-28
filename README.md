@@ -11,6 +11,12 @@ I am a [Data Scientist](https://tommy-ngx.github.io/ai/) and Ms in Software Engi
 
 ![](https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png, width="50px")
 
+<p align="center">
+  <--<img src="your_relative_path_here" width="350" title="hover text">/-->
+  <img src="https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png" width="50" alt="accessibility text">
+</p>
+
+
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
   
