@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/tommy-ngx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tommy-ngx?tab=followers) 
 
 
-I am a [Data Scientist](https://tommy-ngx.github.io/ai/) and Ms in Software Engineering graduate from the [University of Federation](https://federation.edu.au/). I have a strong interest in AI advancements and machine learning applications (such as finance, economy, hi-tech and bio-tech). I am a member of [ProtonX](https://protonx.ai/), Vietnam AI Engineer community for AI development .Outside my degree course, I am a writer for [Towards Data Science](https://towardsdatascience.com/) and Freelancer.
+I am a [Data Scientist](https://tommy-ngx.github.io/ai/) and Ms in Software Engineering graduate from the [University of Federation](https://federation.edu.au/). I have a strong interest in AI advancements and machine learning applications (such as finance, economy, hi-tech and bio-tech). I am a member of [ProtonX](https://protonx.ai/),which is Vietnam AI Engineer community for AI development. Outside my degree course, I am a writer for [Towards Data Science](https://towardsdatascience.com/) and Freelancer.
 <!---
 #![](https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png, width="50px")
   <--<img src="your_relative_path_here" width="350" title="hover text">\-->
