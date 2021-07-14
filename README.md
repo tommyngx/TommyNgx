@@ -16,16 +16,19 @@ I am a [Data Scientist](https://tommy-ngx.github.io/ai/) and Ms in Software Engi
   <--<img src="your_relative_path_here" width="350" title="hover text">\-->
 - 🔭 I am working as a Researcher in the domain of Computer Vision/Data Imputation.🤖
 - 🌱 I’m currently learning everything XD 🤣
-- 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Natural Language Processing case studies and projects!
+- 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Computer Vision case studies and projects!
 - 💡 Ask me about Python, Data Structures, Data Science, and Artificial Intelligence!
 - 😁 Pronouns: He/His
-- 🤔 I’m looking for help with Flutter and Java!
+- 🤔 I’m looking for help with NodeJs, React and Java!
 - 🤣 Fun fact: I find AI-s more interesting than Humans. 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png" width="80" alt="accessibility text">
-</p>
+</p>-->
 
+<div>
+<img align="right" alt="GIF" height="169px" src="https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png"/>
+</div>
 ---
 
 ## ⚙ Languages, Tools and Platforms I 💛 to work with:
