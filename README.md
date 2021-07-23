@@ -55,6 +55,10 @@ I am a [Data Scientist](https://tommy-ngx.github.io/ai/) and Ms in Software Engi
 </br>
 ---
 
+<center>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tommy-ngx&" alt="tommy-ngx" /></p>
+</center>
 
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
