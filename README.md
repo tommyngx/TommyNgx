@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" height="300px" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif"/>
 </div>
 
-I am a [Data Scientist](https://tommy-ngx.github.io/ai/) and Ms in Software Engineering graduate from the [University of Federation](https://federation.edu.au/). I have a strong interest in AI advancements and machine learning applications (such as finance, economy, hi-tech and bio-tech). I am a member of [ProtonX](https://protonx.ai/), which is Vietnam AI Engineer community for bringing AI closer to all academic, research and tech people. Outside my degree course, I am a writer for [Medium](https://tommy-ngx.medium.com) and Freelancer.
+I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Engineering graduate from the [University of Federation](https://federation.edu.au/). I have a strong interest in AI advancements and machine learning applications (such as finance, economy, hi-tech and bio-tech). I am a member of [ProtonX](https://protonx.ai/), which is Vietnam AI Engineer community for bringing AI closer to all academic, research and tech people. Outside my degree course, I am a writer for [Medium](https://tommy-ngx.medium.com) and Freelancer.
 <!---
 #![](https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png, width="50px")
   <--<img src="your_relative_path_here" width="350" title="hover text">\-->
