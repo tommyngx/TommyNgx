@@ -29,6 +29,7 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 <div>
 <img align="right" alt="GIF" height="169px" src="https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png"/>
 </div>
+
 ---
 
 ## ⚙ Languages, Tools and Platforms I 💛 to work with:
@@ -52,16 +53,22 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="css" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
-</br>
+</br></br>
 ---
+
 <a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/github-metrics.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
-<center>
+</br>
 
+---
+
+<!--
+
+<center>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tommy-ngx&" alt="tommy-ngx" /></p>
 </center>
-
+-->
 <!--<details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
   
