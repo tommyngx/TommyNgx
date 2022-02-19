@@ -75,7 +75,7 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
   [![Github Stats By tommy-ngx](https://github-readme-stats.vercel.app/api?username=tommy-ngx&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
   [![Github Langs By tommy-ngx](https://github-readme-stats.vercel.app/api/top-langs/?username=tommy-ngx&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
 ---
-
+-->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: linkedin.com/in/tommy-ngx
 -->
