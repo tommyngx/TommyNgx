@@ -54,13 +54,15 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 
 </br>
 ---
+<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/github-metrics.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
 <center>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tommy-ngx&" alt="tommy-ngx" /></p>
 </center>
 
-<details>
+<!--<details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
   
   [![Github Stats By tommy-ngx](https://github-readme-stats.vercel.app/api?username=tommy-ngx&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
@@ -69,6 +71,5 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: linkedin.com/in/tommy-ngx
+-->
 
-<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="github-metrics.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
