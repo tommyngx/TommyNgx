@@ -69,3 +69,6 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: linkedin.com/in/tommy-ngx
+
+<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="github-metrics.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
