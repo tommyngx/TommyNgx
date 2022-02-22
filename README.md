@@ -56,12 +56,14 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 </br></br>
 ---
 
-<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/github-metrics.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/metrics-achievements.svg" align="left" width="47.5%"></img></a>
+
+
+<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/github-metrics.svg" align="left" width="42.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/metrics-achievements.svg" align="left" width="42.5%"></img></a>
 
 </br>
 
----
+
 
 <!--
 
