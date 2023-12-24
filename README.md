@@ -5,7 +5,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub followers](https://img.shields.io/github/followers/tommy-ngx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tommy-ngx?tab=followers) 
-<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Tommy-Ngx.Tommy-Ngx" alt="Vistor Badge"></a>
+<!--<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Tommy-Ngx.Tommy-Ngx" alt="Vistor Badge"></a>-->
 <div>
 <!-- <img align="right" alt="GIF" height="300px" "width="50%" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif"/> -->
 </div>
