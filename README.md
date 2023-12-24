@@ -1,19 +1,34 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%">
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tommy-Ngx" alt="Tommy-Ngx" /> </p>
 
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tommy-ngx.medium.com)
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tommyngx)
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub followers](https://img.shields.io/github/followers/tommy-ngx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tommy-ngx?tab=followers) 
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tommy-Ngx&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="Tommy-Ngx" /></p>
+
 <!--<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Tommy-Ngx.Tommy-Ngx" alt="Vistor Badge"></a>-->
 <div>
 <!-- <img align="right" alt="GIF" height="300px" "width="50%" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif"/> -->
 </div>
 
-I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Engineering graduate from the [University of Federation](https://federation.edu.au/). I have a strong interest in AI advancements and machine learning applications (such as finance, economy, hi-tech and bio-tech). I am a member of [ProtonX](https://protonx.ai/), which is Vietnam AI Engineer community for bringing AI closer to all academic, research and tech people. Outside my degree course, I am a writer for [Medium](https://tommy-ngx.medium.com) and Freelancer.
+<!--I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Engineering graduate from the [University of Federation](https://federation.edu.au/). I have a strong interest in AI advancements and machine learning applications in biomedical domain. 
+
+I am a member of [ProtonX](https://protonx.ai/), which is Vietnam AI Engineer community for bringing AI closer to all academic, research and tech people. Outside my degree course, I am a writer for [Medium](https://tommy-ngx.medium.com) and Freelancer.-->
 <!---
 #![](https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png, width="50px")
   <--<img src="your_relative_path_here" width="350" title="hover text">\-->
+<!---
 - 🔭 I am working as a Researcher in the domain of Computer Vision/Data Imputation.🤖
 - 🌱 I’m currently learning everything XD 🤣
 - 👯  I’m looking to collaborate on various open-sourced Machine Learning, Deep Learning, and Computer Vision case studies and projects!
@@ -21,6 +36,14 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 - 😁 Pronouns: He/His
 - 🤔 I’m looking for help with NodeJs, React and Java!
 - 🤣 Fun fact: I find AI-s more interesting than Humans. 
+--->
+
+
+
+
+
+
+
 
 <!--<p align="center">
   <img src="https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png" width="80" alt="accessibility text">
@@ -30,9 +53,8 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 <!--<img align="right" alt="GIF" height="169px" src="https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png"/>-->
 </div>
 
----
 
-## ⚙ Languages, Tools and Platforms I 💛 to work with:
+<!--## ⚙ Languages, Tools and Platforms I 💛 to work with:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg"/>
@@ -49,17 +71,17 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 <img align="left" alt="aws" width="26px" src="https://essencesolusoft.com/assets/services/cloud/aws/aws-logo.svg"/> 
 <img align="left" alt="pgsql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 <img align="left" alt="huggingface" width="26px" src="https://ia802805.us.archive.org/15/items/github.com-huggingface-transformers_-_2020-02-12_22-24-48/cover.jpg"/> -->
-<img align="left" alt="kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>
+<!--<img align="left" alt="kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="css" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
-</br></br>
+</br></br> -->
 ---
 
 
 
-<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/github-metrics.svg" align="left" width="42.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/metrics-achievements.svg" align="left" width="42.5%"></img></a>
+<!--<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/github-metrics.svg" align="left" width="42.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/metrics-achievements.svg" align="left" width="42.5%"></img></a>-->
 
 </br>
 
