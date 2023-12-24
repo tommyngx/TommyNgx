@@ -27,7 +27,7 @@ I am a [Data Scientist](https://tommy-ngx.github.io/) and Ms in Software Enginee
 </p>-->
 
 <div>
-<img align="right" alt="GIF" height="169px" src="https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png"/>
+<!--<img align="right" alt="GIF" height="169px" src="https://github.com/Tommy-Ngx/ai/blob/main/img/TommyFull.png"/>-->
 </div>
 
 ---
