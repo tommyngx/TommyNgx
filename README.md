@@ -1,8 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
 
 <!--<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Tommy-Ngx.Tommy-Ngx" alt="Vistor Badge"></a>-->
-
-![Visits Badge](https://badges.pufler.dev/visits/Tommy-Ngx/Tommy-Ngx)
+[![Visits Badge](https://badges.pufler.dev/visits/Tommy-Ngx/Tommy-Ngx)](https://github.com/Tommy-Ngx)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tommy-ngx.medium.com)
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tommyngx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin-url]
