@@ -1,4 +1,10 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
+
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tommy-ngx.medium.com)
+[![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tommyngx)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub followers](https://img.shields.io/github/followers/tommy-ngx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tommy-ngx?tab=followers) 
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
@@ -7,13 +13,9 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tommy-Ngx" alt="Tommy-Ngx" /> </p>
 
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tommy-ngx.medium.com)
-[![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tommyngx)
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub followers](https://img.shields.io/github/followers/tommy-ngx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tommy-ngx?tab=followers) 
+
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tommy-Ngx&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="Tommy-Ngx" /></p>
 
@@ -76,14 +78,12 @@ I am a member of [ProtonX](https://protonx.ai/), which is Vietnam AI Engineer co
 <img align="left" alt="css" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
 </br></br> -->
----
 
 
 
 <!--<a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/github-metrics.svg" align="left" width="42.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/tommy-ngx"><img src="https://raw.githubusercontent.com/Tommy-Ngx/Readmewithcode/main/metrics-achievements.svg" align="left" width="42.5%"></img></a>-->
 
-</br>
 
 
 
