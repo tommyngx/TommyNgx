@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
 
 <!--<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Tommy-Ngx.Tommy-Ngx" alt="Vistor Badge"></a>-->
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTommy-Ngx&countColor=%23ba68c8&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/tommy-ngx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tommy-ngx?tab=followers) 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTommyNgx&countColor=%23ba68c8&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/tommyngx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tommyngx?tab=followers) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tommyngx)
 
 <!--[![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tommyngx) -->
@@ -22,14 +22,14 @@
 </p><p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Tommy-Ngx&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=TommyNgx&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Tommy-Ngx&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=TommyNgx&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tommy-Ngx&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TommyNgx&show_icons=true" />
 </picture> </p> 
 
 
