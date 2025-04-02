@@ -4,7 +4,9 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTommyNgx&countColor=%23ba68c8&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/tommyngx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tommyngx?tab=followers) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tommyngx)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tommyngx/TommyNgx/refs/heads/main/image.png" alt="pytorch" width="400" height="600"/> 
+</p>
 <!--[![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tommyngx) -->
 <!--[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://tommy-ngx.medium.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin-url]-->
