@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
 - I build AI & statistical models  🤖
-— if my model doesn’t learn, I will learn. One of us will get smart. 🎓 
+- If my model doesn’t learn, I will learn. One of us will get smart. 🎓 
 - Better every day, one epoch at a time. ✨
 
 <!--<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Tommy-Ngx.Tommy-Ngx" alt="Vistor Badge"></a>-->
